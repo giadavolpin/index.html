@@ -1,0 +1,52 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 95%;
+}
+.box1{
+    background-color: black;
+    border-radius: 20px;
+    color: #fff;
+    opacity: .7;
+    padding: 30px;
+}
+img{
+  height: 80px;
+  width: 200px;
+}
+h1{
+  font-style: italic;
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+.intestazione{
+  background-color: rgb(0,255,0);
+  border: 50px;
+  text-align:center;
+  margin: 50px;
+  padding: 25px;
+}
+#id{
+  font-size: 30px;
+}
+.statoricarica1 {
+  background-color: orange;
+  border-radius: 5px;
+  height: 20px;
+  width: 200px;
+  }
+.statoricarica2 {
+    background-color:rgb(0,260,0);
+    border-radius: 5px;
+    height: 20px;
+    width: 500px;
+    }
+.statoricarica3 {
+      background-color: red;
+      border-radius: 5px;
+      height: 20px;
+      width: 200px;
+      }
+.corpo{
+  text-align: left;
+  border: 20px;
+}

@@ -1,0 +1,36 @@
+img{
+   height: 100px;
+   width: 120px;
+}
+header{
+  margin: auto;
+}
+hr{
+  color: white;
+}
+#unread-cont{
+background-color: orange;
+border-radius: 50%;
+padding: 5px
+}
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  color: white;
+}
+.row-left{
+  display: inline-block;
+  width: 30%
+}
+.row-right{
+  display: inline-block;
+  width: 68%
+}
+.row{
+  background-color: gray;
+}
+footer{
+  text-align: center;
+}
+#footer-name{
+  font-size: 25px;
+}
